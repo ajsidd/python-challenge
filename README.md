@@ -31,7 +31,7 @@ This repository contains two Python scripts for data analysis:
 ## File Structure
 
 - **`main.py`:** Python script for financial data analysis in the Pybank folder.
-- **`main.py`:** Python script for election data analysis Pypoll folder.
+- **`main.py`:** Python script for election data analysis in the Pypoll folder.
 - **`Resources`:** Folder containing CSV files (`budget_data.csv` and `election_data.csv`).
 - **`Analysis`:** Folder where the analysis results are exported as text files.
 
