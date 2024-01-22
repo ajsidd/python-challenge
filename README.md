@@ -4,11 +4,11 @@
 
 This repository contains two Python scripts for data analysis:
 
-1. **Financial Analysis Script (`main.py`):**
+1. **Pybank Script (`main.py`):**
    - Analyzes financial data from a CSV file to calculate metrics such as total months, net total, average change, greatest increase in profits, and greatest decrease in profits.
    - Prints the results to the terminal and exports them to a text file in the 'Analysis' folder.
 
-2. **Election Data Analysis Script (`main.py`):**
+2. **Pypoll Analysis Script (`main.py`):**
    - Analyzes election data from a CSV file to calculate metrics such as total votes, votes for each candidate, percentage of votes for each candidate, and identifies the winner.
    - Prints the results to the terminal and exports them to a text file in the 'Analysis' folder.
 
